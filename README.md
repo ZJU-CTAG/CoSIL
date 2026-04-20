@@ -1,4 +1,8 @@
-# Issue Localization via LLM-Driven Iteritive Code Graph Searching
+# Issue Localization via LLM-Driven Iterative Code Graph Searching
+
+> [!WARNING]
+> This is the **old version of the CoSIL** implementation. Read the [latest source code](https://github.com/ZhonghaoJiang/CoSIL).
+
 
 In the experiment, we use `afl` to represent our approach, CoSIL.
 
